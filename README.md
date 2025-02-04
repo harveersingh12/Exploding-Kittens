@@ -1,4 +1,4 @@
-Exploding Kittens
+### Exploding Kittens
 
 ## Table of contents
 - [Preface](#preface)
