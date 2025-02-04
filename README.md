@@ -1,7 +1,4 @@
-# Exploding ~~Kittens~~ Brains
-A coding nightmare that almost blew our brains off.
-
-
+Exploding Kittens
 
 ## Table of contents
 - [Preface](#preface)
